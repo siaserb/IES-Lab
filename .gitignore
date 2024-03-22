@@ -1,8 +1,9 @@
-/Lab1/.idea/
-/Lab1/venv/
-/Lab2/.idea/
-/Lab2/venv/
-/Lab3/.idea/
-/Lab3/venv/
+/agent/.idea/
+/agent/venv/
+/hub/.idea/
+/hub/venv/
+/store/.idea/
+/store/venv/
+/edge/.idea/
+/edge/venv/
 /.idea/
-/venv/

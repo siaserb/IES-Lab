@@ -1,0 +1,34 @@
+1710620184: mosquitto version 2.0.18 starting
+1710620184: Config loaded from /mosquitto/config/mosquitto.conf.
+1710620184: Opening ipv4 listen socket on port 1883.
+1710620184: Opening ipv6 listen socket on port 1883.
+1710620184: mosquitto version 2.0.18 running
+1710620190: New connection from 172.19.0.3:45297 on port 1883.
+1710620190: New client connected from 172.19.0.3:45297 as auto-959C1D01-6021-EB04-0919-3D9BD50501FB (p2, c1, k60).
+1710620335: Client auto-959C1D01-6021-EB04-0919-3D9BD50501FB closed its connection.
+1710620336: mosquitto version 2.0.18 terminating
+1710620336: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710620348: mosquitto version 2.0.18 starting
+1710620348: Config loaded from /mosquitto/config/mosquitto.conf.
+1710620348: Opening ipv4 listen socket on port 1883.
+1710620348: Opening ipv6 listen socket on port 1883.
+1710620348: mosquitto version 2.0.18 running
+1710620351: New connection from 172.22.0.3:59383 on port 1883.
+1710620351: New client connected from 172.22.0.3:59383 as auto-0B5A36FC-AA94-88AC-E232-3F47863D1777 (p2, c1, k60).
+1710620442: mosquitto version 2.0.18 terminating
+1710620442: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1710620645: mosquitto version 2.0.18 starting
+1710620645: Config loaded from /mosquitto/config/mosquitto.conf.
+1710620645: Opening ipv4 listen socket on port 1883.
+1710620645: Opening ipv6 listen socket on port 1883.
+1710620645: mosquitto version 2.0.18 running
+1710620654: New connection from 172.18.0.3:56175 on port 1883.
+1710620654: New client connected from 172.18.0.3:56175 as auto-58B2CC08-D657-462F-56F8-CD878DB9F969 (p2, c1, k60).
+1710620815: New connection from 172.18.0.1:36914 on port 1883.
+1710620815: New client connected from 172.18.0.1:36914 as mqtt-explorer-cc689709 (p2, c1, k60).
+1710621006: New connection from 172.18.0.1:51268 on port 1883.
+1710621006: New client connected from 172.18.0.1:51268 as auto-7682E564-A489-5F0E-EEDE-A0C1D823EB6D (p2, c1, k60).
+1710621011: Client auto-7682E564-A489-5F0E-EEDE-A0C1D823EB6D closed its connection.
+1710621051: New connection from 172.18.0.1:44052 on port 1883.
+1710621051: New client connected from 172.18.0.1:44052 as auto-3BFEDFAB-EE53-2208-1069-C3B28ECF3A86 (p2, c1, k60).
+1710621054: Client auto-3BFEDFAB-EE53-2208-1069-C3B28ECF3A86 closed its connection.
